@@ -33,7 +33,7 @@
     "cross-env": "^3.0.0",
     "css-loader": "^3.4.2",
     "file-loader": "^0.9.0",
-    "mocha": "^7.1.0",
+    "mocha": "^10.2.0",
     "sinon": "^9.0.0",
     "supertest": "^4.0.2"
   }
